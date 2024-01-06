@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pavan shaarma 
+- 👋 Hi, I’m Pavan Sharma 
 - 👀 I’m interested in Traveling 
 - 🌱 I’m currently learning Javascrip | React | Redux 
 - 📫 How to reach me sharmapk0081@gmail.com 
